@@ -1,0 +1,11 @@
+Windows 10@DESKTOP-B84A71V MINGW64 ~/Desktop
+$ mkdir exm
+
+Windows 10@DESKTOP-B84A71V MINGW64 ~/Desktop
+$ cd exm
+
+Windows 10@DESKTOP-B84A71V MINGW64 ~/Desktop/exm
+$ touch fichier
+
+Windows 10@DESKTOP-B84A71V MINGW64 ~/Desktop/exm
+$ nano fichier
